@@ -1,10 +1,10 @@
 import os
 
 class Config(object):
-    API_ID = int(os.environ.get("APP_ID", "28618605"))
-    API_HASH = os.environ.get("API_HASH", "638401dcd8eaadbcb94752ad52c2ccdc")
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "6029317659:AAF0HRWGCOxRpgtwImZD2H_gfuEItpWCj9c")
-    STRING_SESSION = os.environ.get("STRING_SESSION", "BQCbjd64RSxFENjI9zlm0Dwt7Lg5sZ3hwLsWnkj0SzrdFaceYMROyVfZbwXC7Y961-H6H9G5L9K4D3KEUiWpPGxCS1UEnGcU5GR_a4HKDItu6ulBslPbMKLyXeYjM2RjqnLnIz-QmHWY87HXPvq1W5a17d7qbGcyocvi2-B9auT1qiaXZPNcyy6NtEjyplTl0TeWhPtYoaasx0uMjz--DhGcAZdE7mBqRiandG2NTQiPitxpFv9bFqucSsGTFhoeMVcTpDIGdUYO89g0W_ZEsnZbqrphplb3Lb0ENbxX8lfISuD6B7n_ME-yzfbQgMxUR0fPQItUA2Auvcqd_GIv-aOLYh7vZQA")
+    API_ID = int(os.environ.get("APP_ID", ")
+    API_HASH = os.environ.get("API_HASH", ")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", ")
+    STRING_SESSION = os.environ.get("STRING_SESSION", "Ejypl)
     MANAGEMENT_MODE = os.environ.get("MANAGEMENT_MODE", None)
     HEROKU_MODE = os.environ.get("HEROKU_MODE", None)
     BOT_USERNAME = os.environ.get("BOT_USERNAME", "@songfinder_musicfinder_bot")
